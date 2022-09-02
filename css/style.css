@@ -60,7 +60,7 @@ button {
   box-shadow: 4px 3px 12px 1px rgb(0 0 0 / 15%);
   transition: 0.9ms;
   cursor: pointer;
-  ;
+  
 }
 button.key-operator:hover{
   background-color: rgba(0, 0, 0, 0.2);
@@ -90,6 +90,7 @@ button:active,
 button:focus {
   outline: none;
 }
+
 
 button.key-equal {
   background-color: #ff9090;
